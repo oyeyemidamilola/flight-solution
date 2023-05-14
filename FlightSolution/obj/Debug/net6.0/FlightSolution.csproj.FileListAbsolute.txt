@@ -1,0 +1,16 @@
+/Users/damilolaoyeyemi/Desktop/Projects/FlightSolution/FlightSolution/bin/Debug/net6.0/FlightSolution
+/Users/damilolaoyeyemi/Desktop/Projects/FlightSolution/FlightSolution/bin/Debug/net6.0/orders.json
+/Users/damilolaoyeyemi/Desktop/Projects/FlightSolution/FlightSolution/bin/Debug/net6.0/FlightSolution.deps.json
+/Users/damilolaoyeyemi/Desktop/Projects/FlightSolution/FlightSolution/bin/Debug/net6.0/FlightSolution.runtimeconfig.json
+/Users/damilolaoyeyemi/Desktop/Projects/FlightSolution/FlightSolution/bin/Debug/net6.0/FlightSolution.dll
+/Users/damilolaoyeyemi/Desktop/Projects/FlightSolution/FlightSolution/bin/Debug/net6.0/FlightSolution.pdb
+/Users/damilolaoyeyemi/Desktop/Projects/FlightSolution/FlightSolution/obj/Debug/net6.0/FlightSolution.csproj.AssemblyReference.cache
+/Users/damilolaoyeyemi/Desktop/Projects/FlightSolution/FlightSolution/obj/Debug/net6.0/FlightSolution.GeneratedMSBuildEditorConfig.editorconfig
+/Users/damilolaoyeyemi/Desktop/Projects/FlightSolution/FlightSolution/obj/Debug/net6.0/FlightSolution.AssemblyInfoInputs.cache
+/Users/damilolaoyeyemi/Desktop/Projects/FlightSolution/FlightSolution/obj/Debug/net6.0/FlightSolution.AssemblyInfo.cs
+/Users/damilolaoyeyemi/Desktop/Projects/FlightSolution/FlightSolution/obj/Debug/net6.0/FlightSolution.csproj.CoreCompileInputs.cache
+/Users/damilolaoyeyemi/Desktop/Projects/FlightSolution/FlightSolution/obj/Debug/net6.0/FlightSolution.dll
+/Users/damilolaoyeyemi/Desktop/Projects/FlightSolution/FlightSolution/obj/Debug/net6.0/refint/FlightSolution.dll
+/Users/damilolaoyeyemi/Desktop/Projects/FlightSolution/FlightSolution/obj/Debug/net6.0/FlightSolution.pdb
+/Users/damilolaoyeyemi/Desktop/Projects/FlightSolution/FlightSolution/obj/Debug/net6.0/FlightSolution.genruntimeconfig.cache
+/Users/damilolaoyeyemi/Desktop/Projects/FlightSolution/FlightSolution/obj/Debug/net6.0/ref/FlightSolution.dll
